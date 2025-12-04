@@ -37,8 +37,8 @@ def phone_book():
                 print("No contacts saved!")
             else:
                 print("\nAll Contacts:")
-                for name, phone in contacts.items():
-                    print(f"{name}: {phone}")
+                for index, (name, phone) in enumerate(contacts.items(), start=1):
+                   print(f"{index}. {name}: {phone}")
 
         elif choice == "5":
             print("Exiting Phone Book. Goodbye!")
