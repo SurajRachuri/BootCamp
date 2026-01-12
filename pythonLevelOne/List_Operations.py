@@ -51,3 +51,7 @@ print(f"Reverse order of List:")
 for num in rev:
     print(num)
 print("--------")
+
+from OPPS.Attributes_Methods import test
+
+test()

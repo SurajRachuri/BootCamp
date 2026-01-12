@@ -56,4 +56,5 @@ def analyze_sentence(sentence: str) -> dict:
  
 result = analyze_sentence("The quick brown fox jumps over the lazy dog")
 print(result)
- 
+
+

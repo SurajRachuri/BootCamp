@@ -1,0 +1,25 @@
+[
+    {
+        "user_name": "Alice",
+        "user_email": "alice@example.com",
+        "age": 22,
+        "status": "active"
+    },
+    {
+        "user_email": "bob@example.com",
+        "age": 17,
+        "status": "inactive"
+    },
+    {
+        "user_name": "Charlie",
+        "user_email": "charlie@example.com",
+        "age": 30,  
+        "status": "inactive"
+    },
+    {
+        "userofname": "David",
+        "user_email": "david@example.com",
+        "age": 20,
+        "status": "active"
+    }
+]

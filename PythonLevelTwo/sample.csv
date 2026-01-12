@@ -1,0 +1,7 @@
+name,age,city,income
+Alice,25,New York,50000
+Bob,30,Los Angeles,60000
+Charlie,,Chicago,55000
+David,28,,58000
+Emma,35,Houston,
+Frank,40,Dallas,70000

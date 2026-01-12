@@ -1,0 +1,110 @@
+[
+    {
+        "amount": 250,
+        "category": "Food",
+        "date": "2025-12-15",
+        "description": "KFC lunch"
+    },
+    {
+        "amount": 1200,
+        "category": "Transport",
+        "date": "2025-01-05",
+        "description": "Cab to office"
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "2025-01-12",
+        "description": "Dominos"
+    },
+    {
+        "amount": 250,
+        "category": "Food",
+        "date": "2025-12-15",
+        "description": "KFC lunch"
+    },
+    {
+        "amount": 1200,
+        "category": "Transport",
+        "date": "2025-01-05",
+        "description": "Cab to office"
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "2025-01-12",
+        "description": "Dominos"
+    },
+    {
+        "amount": 250,
+        "category": "Food",
+        "date": "2025-12-15",
+        "description": "KFC lunch"
+    },
+    {
+        "amount": 1200,
+        "category": "Transport",
+        "date": "2025-01-05",
+        "description": "Cab to office"
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "2025-01-12",
+        "description": "Dominos"
+    },
+    {
+        "amount": 250,
+        "category": "Food",
+        "date": "2025-12-15",
+        "description": "KFC lunch"
+    },
+    {
+        "amount": 1200,
+        "category": "Transport",
+        "date": "2025-01-05",
+        "description": "Cab to office"
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "2025-01-12",
+        "description": "Dominos"
+    },
+    {
+        "amount": 250,
+        "category": "Food",
+        "date": "2025-12-15",
+        "description": "KFC lunch"
+    },
+    {
+        "amount": 1200,
+        "category": "Transport",
+        "date": "2025-01-05",
+        "description": "Cab to office"
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "2025-01-12",
+        "description": "Dominos"
+    },
+    {
+        "amount": 250,
+        "category": "Food",
+        "date": "2025-12-15",
+        "description": "KFC lunch"
+    },
+    {
+        "amount": 1200,
+        "category": "Transport",
+        "date": "2025-01-05",
+        "description": "Cab to office"
+    },
+    {
+        "amount": 500,
+        "category": "Food",
+        "date": "2025/01/12",
+        "description": "Dominos"
+    }
+]
