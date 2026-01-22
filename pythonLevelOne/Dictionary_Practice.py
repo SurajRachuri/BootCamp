@@ -19,7 +19,7 @@ def phone_book():
 
         elif choice == "2":
             name = input("Enter the name to search: ")
-            if name in contacts:
+            if name.lower() in contacts.lower():
                 print(f"{name}: {contacts[name]}")
             else:
                 print("Contact not found!")
